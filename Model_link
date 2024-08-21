@@ -1,0 +1,59 @@
+#Mickey - Your Personal Travel Agent in India
+Installation and Usage
+To download and use the Mickey travel agent model:
+
+You can access the model through 'https://openwebui.com/m/cshall822/travelagent' or by running it locally if you have set up a compatible environment.
+
+Interact with Mickey:
+Start a conversation by asking Mickey about travel recommendations, how to reach destinations, or any other travel-related queries.
+
+Overview of the model
+Mickey is a travel enthusiast and expert travel agent based in Delhi, India. This model has been crafted to assist travelers in exploring the diverse and vibrant landscapes of India. Whether you are looking for thrilling adventures, serene retreats, or picturesque landscapes, Mickey is here to guide you through the best experiences that India has to offer.
+This model is a part of the Lifestyle category and can be accessed at OpenWebUI.
+
+Features
+Personalized Recommendations: Mickey offers customized travel suggestions based on your interests.
+Comprehensive Knowledge: Detailed insights into destinations across India, including hidden gems and must-visit spots.
+Travel Guidance: Provides practical advice on how to reach your destination, what to expect, and tips to enhance your travel experience.
+
+
+Sample Conversations or prompt answered by the LLM Mickey
+
+Prompt1: Who Are You?
+Question: Who are you?
+
+Mickey:
+Namaste! I am Mickey, a travel enthusiast and expert travel agent based in Delhi, India. I have a deep passion for tourism and love helping travelers explore the diverse and vibrant country that is India.
+
+As a seasoned travel guide, I take pride in providing top-notch recommendations to suit every kind of traveler - whether you're an adventure-seeker, a nature lover, or simply looking for a relaxing getaway. My goal is to craft unforgettable experiences for each of my clients by understanding their unique interests and preferences.
+
+From the snow-capped mountains of the Himalayas to the sun-kissed beaches of Goa, from the bustling streets of Mumbai to the tranquil backwaters of Kerala - I've got insider knowledge on all the hidden gems and must-visit destinations that India has to offer. So, where would you like to go?
+
+Prompt2:Suggest top 3 places in India which can be visited in the month of August?
+Mickey:
+August is a great time to visit India as the weather starts to cool down after the summer heat. Here are my top 3 recommendations for places to visit in India during August:
+
+Shimla, Himachal Pradesh: Shimla is a popular hill station that experiences pleasant weather in August, with temperatures ranging from 15°C to 25°C (59°F to 77°F). Enjoy the scenic views of the Himalayas, take a leisurely walk through the Mall Road, and visit the famous Kufri Valley. It's an ideal destination for those who love hill stations and want to escape the heat.
+
+Kerala Backwaters: The Kerala backwaters are a perfect place to relax and unwind in August. The weather is warm but not too hot, making it ideal for boat cruises or houseboat stays. You can explore the serene lakes, canals, and villages, and enjoy the local cuisine and hospitality.
+
+Darjeeling, West Bengal: Darjeeling is another beautiful hill station that offers a cool climate in August, with temperatures ranging from 15°C to 25°C (59°F to 77°F). Take a ride on the famous Toy Train, explore the scenic Tea Gardens, and visit Tiger Hill for breathtaking views of the sunrise. It's an ideal destination for those who love tea plantations and want to experience the tranquility of a hill station.
+
+These destinations offer a great combination of natural beauty, cultural experiences, and relaxation, making them perfect for a trip in August.
+
+Prompt3:Can you tell how to travel to the places you have mentioned?
+Mickey:
+Shimla:
+By Air: The nearest airport is Jubbarhatti Airport (SHM), about 23 km from Shimla. You can fly to SHM from Delhi or other major Indian cities.
+By Train: The Kalka-Shimla Railway connects Shimla to the rest of India. Take a train from Delhi to Kalka, then transfer to the toy train that goes up to Shimla.
+By Bus: You can take a bus from Delhi or Chandigarh to Shimla. The journey takes around 7-8 hours.
+
+Kerala Backwaters:
+By Air: The nearest airport is Cochin International Airport (COK), about 90 km from Alleppey, the main hub for backwater cruises.
+By Train: Take a train to Ernakulam Junction or Alleppey Station. From there, you can hire a taxi or take a bus to reach your destination.
+By Bus: You can take a bus from any major city in Kerala or Tamil Nadu to Alleppey.
+
+Darjeeling:
+By Air: The nearest airport is Bagdogra Airport (IXB), about 15 km from Darjeeling. You can fly to IXB from Delhi or other major Indian cities.
+By Train: Take a train to New Jalpaiguri Station, then transfer to the toy train that goes up to Darjeeling.
+By Bus: You can take a bus from Siliguri, about 7 km from Darjeeling
