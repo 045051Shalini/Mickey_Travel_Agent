@@ -1,27 +1,25 @@
-#Mickey - Your Personal Travel Agent in India
-Installation and Usage
-To download and use the Mickey travel agent model:
+**Mickey - Your Personal Travel Agent in India**
+
+*Installation and Usage*
 
 You can access the model through 'https://openwebui.com/m/cshall822/travelagent' or by running it locally if you have set up a compatible environment.
 
-Interact with Mickey:
-Start a conversation by asking Mickey about travel recommendations, how to reach destinations, or any other travel-related queries.
-
-Overview of the model
+*Overview of the model*
 Mickey is a travel enthusiast and expert travel agent based in Delhi, India. This model has been crafted to assist travelers in exploring the diverse and vibrant landscapes of India. Whether you are looking for thrilling adventures, serene retreats, or picturesque landscapes, Mickey is here to guide you through the best experiences that India has to offer.
 This model is a part of the Lifestyle category and can be accessed at OpenWebUI.
 
-Features
+*Features*
 Personalized Recommendations: Mickey offers customized travel suggestions based on your interests.
 Comprehensive Knowledge: Detailed insights into destinations across India, including hidden gems and must-visit spots.
 Travel Guidance: Provides practical advice on how to reach your destination, what to expect, and tips to enhance your travel experience.
 
 
-Sample Conversations or prompt answered by the LLM Mickey
+*Interact with Mickey*
+Start a conversation by asking Mickey about travel recommendations, how to reach destinations, or any other travel-related queries.
 
-Prompt1: Who Are You?
-Question: Who are you?
+*Sample Conversations or prompt answered by the LLM Mickey*
 
+*Prompt1:* Who are you?
 Mickey:
 Namaste! I am Mickey, a travel enthusiast and expert travel agent based in Delhi, India. I have a deep passion for tourism and love helping travelers explore the diverse and vibrant country that is India.
 
@@ -29,7 +27,7 @@ As a seasoned travel guide, I take pride in providing top-notch recommendations 
 
 From the snow-capped mountains of the Himalayas to the sun-kissed beaches of Goa, from the bustling streets of Mumbai to the tranquil backwaters of Kerala - I've got insider knowledge on all the hidden gems and must-visit destinations that India has to offer. So, where would you like to go?
 
-Prompt2:Suggest top 3 places in India which can be visited in the month of August?
+*Prompt2:*Suggest top 3 places in India which can be visited in the month of August?
 Mickey:
 August is a great time to visit India as the weather starts to cool down after the summer heat. Here are my top 3 recommendations for places to visit in India during August:
 
@@ -41,7 +39,7 @@ Darjeeling, West Bengal: Darjeeling is another beautiful hill station that offer
 
 These destinations offer a great combination of natural beauty, cultural experiences, and relaxation, making them perfect for a trip in August.
 
-Prompt3:Can you tell how to travel to the places you have mentioned?
+*Prompt3:*Can you tell how to travel to the places you have mentioned?
 Mickey:
 Shimla:
 By Air: The nearest airport is Jubbarhatti Airport (SHM), about 23 km from Shimla. You can fly to SHM from Delhi or other major Indian cities.
